@@ -5,11 +5,11 @@ Using Webscraping and Text Manipulation to perform analysis on Presidential Deba
 Tools: Python, Webscrapping with BeautifulSoup.
 
 
-## Data:
+## Data
 
 Scrape Presidential Debates from the Commission of Presidential Debates website: http://www.debates.org/index.php?page=debate-transcripts.
 
-## Summary: 
+## Summary
 
 1. By using `requests` and `BeautifulSoup` , I found all the links / URLs on the website that links to transcriptions of **First Presidential Debates** from the years [2012, 2008, 2004, 2000, 1996, 1988, 1984, 1976, 1960]. 
 
